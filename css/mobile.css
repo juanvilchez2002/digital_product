@@ -17,4 +17,10 @@
   .mentions{
     display: initial;
   }
+  .container{
+    display: block;
+  }
+  nav a{
+    font-size: .83em;
+  }
 }
